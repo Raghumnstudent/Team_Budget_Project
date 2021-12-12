@@ -1,0 +1,7 @@
+Initially my team budget website shows tree buttons 
+1)Click to add products, click to view total budget, show products
+2)When you click on add product, 
+it will ask for to enter name of product and price of product, 
+then ask for do you add another product,for yes type y,for no type n 
+3)when you click on total budget, it show total price of products
+4)when you click on show products, it show all products name and prices
